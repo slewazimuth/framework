@@ -1,0 +1,28 @@
+
+
+Code Coverage Report 
+  2013-04-19 03:19:48
+
+ Summary: 
+  Classes: 0.00% (0/9)
+  Methods: 9.23% (18/195)
+  Lines:   16.55% (189/1142)
+
+ComposerAutoloaderInitff7f859f15c18a6cbf8cd02111c570ad
+  Methods: 100.00% ( 2/ 2)   Lines:  95.24% ( 20/ 21)
+\Composer\Autoload::ClassLoader
+  Methods:  41.67% ( 5/12)   Lines:  42.67% ( 32/ 75)
+\Symfony\Component\HttpFoundation::FileBag
+  Methods:  50.00% ( 3/ 6)   Lines:  16.67% (  8/ 48)
+\Symfony\Component\HttpFoundation::HeaderBag
+  Methods:  25.00% ( 5/20)   Lines:  29.07% ( 25/ 86)
+\Symfony\Component\HttpFoundation::ParameterBag
+  Methods:  12.50% ( 2/16)   Lines:   7.27% (  4/ 55)
+\Symfony\Component\HttpFoundation::Request
+  Methods:   5.80% ( 4/69)   Lines:   5.38% ( 26/483)
+\Symfony\Component\HttpFoundation::Response
+  Methods:  16.36% ( 9/55)   Lines:  12.92% ( 31/240)
+\Symfony\Component\HttpFoundation::ResponseHeaderBag
+  Methods:  21.43% ( 3/14)   Lines:  18.68% ( 17/ 91)
+\Symfony\Component\HttpFoundation::ServerBag
+  Methods: 100.00% ( 1/ 1)   Lines:  41.38% ( 12/ 29)
