@@ -1,6 +1,6 @@
 {
-	"name": "Glippo Repository",
-	"homepage": "http://localhost/glippo",
+	"name": "Sentient Neural-Net Algorithmns",
+	"homepage": "http://localhost/snc-lavalin",
 	"repositories": [
 	 {"type": "git", "url": "https://github.com/slewazimuth/framework"}
 	],
